@@ -1,3 +1,2 @@
-This text is added to the end of the file
-This text is added to the end of the file
-another line of texts
+this is a text
+this is another text
